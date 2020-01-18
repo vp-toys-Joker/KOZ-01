@@ -1,3 +1,8 @@
 (sym_lib_table
-  (lib (name MAIN-rescue)(type Legacy)(uri ${KIPRJMOD}/MAIN-rescue.lib)(options "")(descr ""))
+  (lib (name Display_Character)(type Legacy)(uri ${KICAD_USER_TEMPLATE_DIR}/user-lib/Display_Character.lib)(options "")(descr ""))
+  (lib (name Driver_Display)(type Legacy)(uri ${KICAD_USER_TEMPLATE_DIR}/user-lib/Driver_Display.lib)(options "")(descr ""))
+  (lib (name RF_Bluetooth)(type Legacy)(uri ${KICAD_USER_TEMPLATE_DIR}/user-lib/RF_Bluetooth.lib)(options "")(descr ""))
+  (lib (name IR_Comp)(type Legacy)(uri ${KICAD_USER_TEMPLATE_DIR}/user-lib/IR_Comp.lib)(options "")(descr ""))
+  (lib (name Interface_Optical)(type Legacy)(uri ${KICAD_USER_TEMPLATE_DIR}/user-lib/Interface_Optical.lib)(options "")(descr ""))
+  (lib (name RTC_DS3231)(type Legacy)(uri ${KICAD_USER_TEMPLATE_DIR}/user-lib/RTC_DS3231.lib)(options "")(descr ""))
 )
