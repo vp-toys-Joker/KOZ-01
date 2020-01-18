@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX7221
+D Serially Interfaced, 8-Digit LED Display Drivers
+F g:\Документы\Docs\Datashits\LED drivers и другие\MAX7219-MAX7221 Led driver.pdf
+$ENDCMP
+#
+$CMP SC36-11GWA
+D 9.14mm (0.36INCH) SINGLE DIGIT NUMERIC
+F g:\Документы\Docs\Datashits\LED\SC36-11GWA.pdf
+$ENDCMP
+#
+#End Doc Library
